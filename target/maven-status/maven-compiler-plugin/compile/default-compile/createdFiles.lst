@@ -1,0 +1,10 @@
+coffeeApp\OrderPageRepository.class
+coffeeApp\PolicyHandler.class
+coffeeApp\OrderPage.class
+coffeeApp\AbstractEvent$1.class
+coffeeApp\OrderPageViewHandler.class
+coffeeApp\OrderAccepted.class
+coffeeApp\AbstractEvent.class
+coffeeApp\OrderCanceled.class
+coffeeApp\config\kafka\KafkaProcessor.class
+coffeeApp\OrderPageApplication.class
